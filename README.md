@@ -7,16 +7,16 @@
 
 ### 腾讯国际短信 支持的 地区和对应的电话区号
 
-加上 `中国` 一个支持  **217** 个国家或地区 [Tencnet SMS CountryCodeAndPhoneCode](./tencentSms)
+加上 `中国` 一个支持  **217** 个国家或地区 [Tencnet SMS CountryCodeAndPhoneCode](./tencentSms/countryCodeAndPhoneCode.json)
 
 > 数据文件 是以 **country_code** 字段进行排序的
 
 ### 阿里国际短信 支持的 地区和对应的电话区号
 
-加上 `中国` 一个支持  **216** 个国家或地区 [Ali SMS CountryCodeAndPhoneCode](./aliSms)
+加上 `中国` 一个支持  **216** 个国家或地区 [Ali SMS CountryCodeAndPhoneCode](./aliSms/countryCodeAndPhoneCode.json)
 
 > 数据文件 是以 **english_name** 字段进行排序的
 
 ### 全部的 地区和对应的电话区号
 
-一共有 **249** 个国家或地区 [All CountryCodeAndPhoneCode](./all)
+一共有 **249** 个国家或地区 [All CountryCodeAndPhoneCode](./all/countryCodeAndPhoneCode.json)
