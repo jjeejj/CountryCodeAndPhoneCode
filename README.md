@@ -19,4 +19,8 @@
 
 ### 全部的 地区和对应的电话区号
 
-一共有 **249** 个国家或地区 [All CountryCodeAndPhoneCode](./all/countryCodeAndPhoneCode.json)
+一共有 **233** 个国家或地区 [All CountryCodeAndPhoneCode](./all/countryCodeAndPhoneCode.json)
+
+> 数据文件 是以 **english_name** 字段进行排序的 , 若认为数据不全，可以提 ISSUE 或者 PR 
+
+> 有的地区有两个 电话区号 ,会以这样的格式书写 ： `"phone_code":"0061 9164"`
