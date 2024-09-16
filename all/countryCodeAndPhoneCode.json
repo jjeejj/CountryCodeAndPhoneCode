@@ -360,12 +360,6 @@
         "phone_code":"1767"
     },
     {
-        "english_name":"Dominican Republic",
-        "chinese_name":"多米尼加共和国",
-        "country_code":"DO",
-        "phone_code":"1809"
-    },
-    {
         "english_name":"Ecuador",
         "chinese_name":"厄瓜多尔",
         "country_code":"EC",
@@ -1236,6 +1230,12 @@
         "phone_code":"66"
     },
     {
+        "english_name":"The Republic of South Sudan",
+        "chinese_name":"南苏丹共和国",
+        "country_code":"SS",
+        "phone_code":"211"
+    },
+    {
         "english_name":"Timor-Leste",
         "chinese_name":"东帝汶",
         "country_code":"TL",
@@ -1298,7 +1298,7 @@
     {
         "english_name":"Tuvalu",
         "chinese_name":"图瓦卢",
-        "country_code":"TK",
+        "country_code":"TUV",
         "phone_code":"688"
     },
     {
