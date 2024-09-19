@@ -319,7 +319,7 @@
     },
     {
         "english_name":"Dominica",
-        "chinese_name":"多米尼加",
+        "chinese_name":"多米尼克",
         "country_code":"DM",
         "phone_code":"1767"
     },
@@ -1300,5 +1300,11 @@
         "chinese_name":"津巴布韦",
         "country_code":"ZW",
         "phone_code":"263"
+    },
+    {
+        "english_name":"The Republic of South Sudan",
+        "chinese_name":"南苏丹共和国",
+        "country_code":"SS",
+        "phone_code":"211"
     }
 ]
