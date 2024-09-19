@@ -1,5 +1,9 @@
-# CountryCodeAndPhoneCode
-国家或地区 区号对应的电话区号
+# 国家或地区 区号对应的电话区号
+CountryCodeAndPhoneCode
+
+## 快捷查询工具
+> https://tools.so8.org/cqh/
+
 
 |英文名称|中文名称|国家区域Code|电话区号|
 |:---:|:----:|:------:|:------:|
